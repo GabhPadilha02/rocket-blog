@@ -1,6 +1,6 @@
 # Discover Rocket-Blog Challenge (Rocketseat)
 
-[Link do site](https://rocket-blog-discover.netlify.app/)
+[Link](https://rocket-blog-discover.netlify.app/)
 
 ## Desktop version:
 ![image](https://raw.githubusercontent.com/GabhPadilha02/rocket-blog/main/prints/127.0.0.1_5500_index.html(Nest%20Hub%20Max).png)
